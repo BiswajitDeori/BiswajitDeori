@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @BiswajitDeori
 
-still a student
+A developer 
+A student
