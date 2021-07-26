@@ -2,7 +2,7 @@
 <img src="https://images.unsplash.com/photo-1566837945700-30057527ade0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80" alt="background images" width="100%" height="400px"/>
 
 <h1 align="center">Hi 👋, I'm Biswajit Deori</h1>
-<h3 align="center">A passionate frontend developer from India ,Want to contribute my work to the world</h3>
+<h3 align="center">A passionate web developer from India ,Want to contribute my work to the world</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajitdeori&label=Profile%20views&color=0e75b6&style=flat" alt="biswajitdeori" /> </p>
 
